@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IBcda1gRkDonOJsYk+YlWutSYqcBqziurrDGKazu+TFPfEq2WSnVz9LuTEw0lDb5NKCu9uIWR2ZE6Iw31vxY3A==",
+  "dgSpecHash": "BSYHmJsYtpERjzViQ95lCuVmczZfoEabEbCcZd/Udonk/rnbIsqlNdNqrxZwm6lz05U121YM9sTwJU2P2N186g==",
   "success": true,
   "projectFilePath": "D:\\Amin\\Programming\\Labratory\\Asp.Net\\Proj\\dotnet-mediatR-demo\\MediatR\\Demo.Api\\Demo.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aa\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\aa\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\aa\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\aa\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
